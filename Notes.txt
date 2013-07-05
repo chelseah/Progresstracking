@@ -1,0 +1,16 @@
+Jul 5th, 2013:
+Tasks: 
+1 a #respond to G.B. about HATlc and transit time
+  b #read the paper with G.Z. and finish the submission @done 
+
+2 a #bug spain group @done
+  b  #dig out the variable stars information 
+
+3 a #interface project with W.Z. 
+  b #new candlist with rp/rstar instead of rp
+  c #upload data
+
+4 a #redo targetlist for observation tonight 
+    #study the references of these two objects
+
+5 b #redraft the TB paper
